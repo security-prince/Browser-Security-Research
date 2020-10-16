@@ -12,6 +12,7 @@
 * [WebKit & JSC Architecture Reading List - For Vulnerability Researchers](https://zon8.re/posts/jsc-architecture-reading-list-for-vulnerability-researchers/)  
 
 #### Books
+* [The Tangled Web – A Guide to Securing Modern Web Applications](https://www.amazon.in/Tangled-Web-Securing-Modern-Applications/dp/1593273886)
 * [The Browser Hacker's Handbook](https://www.amazon.in/Browser-Hackers-Handbook-Wade-Alcorn-ebook/dp/B00JV5JDM6)  
 * [X41’s Browser Security White Paper](https://browser-security.x41-dsec.de/X41-Browser-Security-White-Paper.pdf) [(alternate link)](https://github.com/x41sec/browser-security-whitepaper-2017)  
 * [Cure53’s Browser Security White Paper](https://cure53.de/browser-security-whitepaper.pdf) [(alternate link)](https://github.com/cure53/browser-sec-whitepaper/)  
