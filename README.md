@@ -14,6 +14,7 @@
 * [Broken Browser](https://www.brokenbrowser.com/)  
 * [uxss-db](https://github.com/Metnew/uxss-db)  
 * [awesome-browser-exploit](https://github.com/Escapingbug/awesome-browser-exploit)  
+* [Attacking JavaScript Engines - A case study of JavaScriptCore and CVE-2016-4622](http://phrack.com/papers/attacking_javascript_engines.html)  
 
 #### Books
 * [The Tangled Web – A Guide to Securing Modern Web Applications](https://www.amazon.in/Tangled-Web-Securing-Modern-Applications/dp/1593273886)
