@@ -51,3 +51,6 @@
 * [Johnathan Norman](https://twitter.com/spoofyroot)  
 * [Alison Huffman](https://twitter.com/ohnonull)  
 * [Manuel Caballero](https://twitter.com/magicmac2000)  
+* [tunz](https://twitter.com/7unz)  
+* [RET2 Systems](https://twitter.com/ret2systems)  
+* [Christoph Diehl](https://twitter.com/posidron)  
