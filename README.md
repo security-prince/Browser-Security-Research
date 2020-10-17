@@ -16,11 +16,16 @@
 * [The Browser Hacker's Handbook](https://www.amazon.in/Browser-Hackers-Handbook-Wade-Alcorn-ebook/dp/B00JV5JDM6)  
 * [X41’s Browser Security White Paper](https://browser-security.x41-dsec.de/X41-Browser-Security-White-Paper.pdf) [(alternate link)](https://github.com/x41sec/browser-security-whitepaper-2017)  
 * [Cure53’s Browser Security White Paper](https://cure53.de/browser-security-whitepaper.pdf) [(alternate link)](https://github.com/cure53/browser-sec-whitepaper/)  
+* [Broken Browser](https://www.brokenbrowser.com/)  
+* [uxss-db](https://github.com/Metnew/uxss-db)  
+* [awesome-browser-exploit](https://github.com/Escapingbug/awesome-browser-exploit)  
+* 
 
 
 #### Videos
 * [35C3 - The Layman's Guide to Zero-Day Engineering](https://www.youtube.com/watch?v=WbuGMs2OcbE)  
 * [Browser Exploitation for Fun and Profit](https://www.youtube.com/watch?v=j3SbkXxdvnE)  
+* [Breaking Microsoft Edge extensions security policies](https://www.youtube.com/watch?v=wZSKCwbq4Og)  
 * [LiveOverflow Browser Exploitation](https://www.youtube.com/playlist?list=PLhixgUqwRTjwufDsT1ntgOY9yjZgg5H_t)   
 
 
@@ -43,3 +48,4 @@
 * [Nikhil Mittal](https://twitter.com/c0d3G33k)  
 * [Johnathan Norman](https://twitter.com/spoofyroot)  
 * [Alison Huffman](https://twitter.com/ohnonull)  
+* [Manuel Caballero](https://twitter.com/magicmac2000)  
