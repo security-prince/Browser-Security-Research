@@ -16,6 +16,7 @@
 * [awesome-browser-exploit](https://github.com/Escapingbug/awesome-browser-exploit)  
 * [Attacking JavaScript Engines - A case study of JavaScriptCore and CVE-2016-4622](http://phrack.com/papers/attacking_javascript_engines.html)  
 * [A Methodical Approach to Browser Exploitation](https://blog.ret2.io/2018/06/05/pwn2own-2018-exploit-development/)  
+* [Fuzzing JavaScript Engines with Fuzzilli](https://blog.doyensec.com/2020/09/09/fuzzilli-jerryscript.html)  
 
 #### Books
 * [The Tangled Web – A Guide to Securing Modern Web Applications](https://www.amazon.in/Tangled-Web-Securing-Modern-Applications/dp/1593273886)
@@ -54,3 +55,4 @@
 * [Christoph Diehl](https://twitter.com/posidron)  
 * [Samuel Groß](https://twitter.com/5aelo)  
 * [Jonathan Jacobi](https://twitter.com/j0nathanj)  
+* [Norbert Szetei](https://twitter.com/73696e65)  
