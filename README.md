@@ -17,6 +17,7 @@
 * [Attacking JavaScript Engines - A case study of JavaScriptCore and CVE-2016-4622](http://phrack.com/papers/attacking_javascript_engines.html)  
 * [A Methodical Approach to Browser Exploitation](https://blog.ret2.io/2018/06/05/pwn2own-2018-exploit-development/)  
 * [Fuzzing JavaScript Engines with Fuzzilli](https://blog.doyensec.com/2020/09/09/fuzzilli-jerryscript.html)  
+* [Browser-Pwn - An updated collection of resources targeting browser-exploitation](https://github.com/m1ghtym0/browser-pwn)  
 
 #### Books
 * [The Tangled Web – A Guide to Securing Modern Web Applications](https://www.amazon.in/Tangled-Web-Securing-Modern-Applications/dp/1593273886)
