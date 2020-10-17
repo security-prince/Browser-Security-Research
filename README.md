@@ -23,17 +23,14 @@
 * [X41’s Browser Security White Paper](https://browser-security.x41-dsec.de/X41-Browser-Security-White-Paper.pdf) [(alternate link)](https://github.com/x41sec/browser-security-whitepaper-2017)  
 * [Cure53’s Browser Security White Paper](https://cure53.de/browser-security-whitepaper.pdf) [(alternate link)](https://github.com/cure53/browser-sec-whitepaper/)  
 
-
-
 #### Videos
 * [35C3 - The Layman's Guide to Zero-Day Engineering](https://www.youtube.com/watch?v=WbuGMs2OcbE)  
+* [35C3 - From Zero to Zero Day](https://www.youtube.com/watch?v=xp1YDOtWohw)  
 * [Browser Exploitation for Fun and Profit](https://www.youtube.com/watch?v=j3SbkXxdvnE)  
 * [Breaking Microsoft Edge extensions security policies](https://www.youtube.com/watch?v=wZSKCwbq4Og)  
 * [LiveOverflow Browser Exploitation](https://www.youtube.com/playlist?list=PLhixgUqwRTjwufDsT1ntgOY9yjZgg5H_t)   
 
-
-
-#### Peope to follow
+#### Folks to follow
 * [Zon8 Research](https://twitter.com/Zon8Research)  
 * [phoenhex team](https://twitter.com/phoenhex)  
 * [Luan Herrera](https://twitter.com/lbherrera_)  
@@ -56,3 +53,4 @@
 * [RET2 Systems](https://twitter.com/ret2systems)  
 * [Christoph Diehl](https://twitter.com/posidron)  
 * [Samuel Groß](https://twitter.com/5aelo)  
+* [Jonathan Jacobi](https://twitter.com/j0nathanj)  
