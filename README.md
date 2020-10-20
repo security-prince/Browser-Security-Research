@@ -63,3 +63,4 @@
 * [Jonathan Jacobi](https://twitter.com/j0nathanj)  
 * [Norbert Szetei](https://twitter.com/73696e65)  
 * [Michał Bentkowski](https://twitter.com/securitymb)  
+* [Michele Spagnuolo](https://twitter.com/mikispag)  
