@@ -36,7 +36,8 @@
 * [Breaking Microsoft Edge extensions security policies](https://www.youtube.com/watch?v=wZSKCwbq4Og)  
 * [LiveOverflow Browser Exploitation](https://www.youtube.com/playlist?list=PLhixgUqwRTjwufDsT1ntgOY9yjZgg5H_t)   
 
-#### Folks to follow
+#### Folks to follow  
+* [Parisa Tabriz](https://twitter.com/laparisa)  
 * [Zon8 Research](https://twitter.com/Zon8Research)  
 * [phoenhex team](https://twitter.com/phoenhex)  
 * [Luan Herrera](https://twitter.com/lbherrera_)  
