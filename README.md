@@ -8,6 +8,7 @@
 * [Inside look at modern web browser (part 3)](https://developers.google.com/web/updates/2018/09/inside-browser-part3)  
 * [Inside look at modern web browser (part 4)](https://developers.google.com/web/updates/2018/09/inside-browser-part4)  
 * [Document Object Model (DOM)](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)  
+* [Securitum Research](https://research.securitum.com/about-us/)  
 * [The Great DOM Fuzz-off of 2017](https://googleprojectzero.blogspot.com/2017/09/the-great-dom-fuzz-off-of-2017.html)  
 * [JavaScript Engine Fuzzing and Exploitation Reading List](https://zon8.re/posts/javascript-engine-fuzzing-and-exploitation-reading-list/)  
 * [V8 / Chrome Architecture Reading List - For Vulnerability Researchers](https://zon8.re/posts/v8-chrome-architecture-reading-list-for-vulnerability-researchers/)    
@@ -59,3 +60,4 @@
 * [Samuel Groß](https://twitter.com/5aelo)  
 * [Jonathan Jacobi](https://twitter.com/j0nathanj)  
 * [Norbert Szetei](https://twitter.com/73696e65)  
+* [Michał Bentkowski](https://twitter.com/securitymb)  
