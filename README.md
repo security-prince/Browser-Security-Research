@@ -25,6 +25,9 @@
 * [Browser-Pwn - An updated collection of resources targeting browser-exploitation](https://github.com/m1ghtym0/browser-pwn)  
 * [Hardening Firefox against Injection Attacks](https://www.christophkerschbaumer.com/files/hardening_firefox_against_injection_attacks.pdf)  
 * [Hardening Firefox against Injection Attacks – The Technical Details](https://blog.mozilla.org/attack-and-defense/2020/07/07/hardening-firefox-against-injection-attacks-the-technical-details/)  
+* [Understanding Web Security Checks in Firefox (Part 1)](https://blog.mozilla.org/attack-and-defense/2020/06/10/understanding-web-security-checks-in-firefox-part-1/)  
+* [Understanding Web Security Checks in Firefox (Part 2)](https://blog.mozilla.org/attack-and-defense/2020/08/05/understanding-web-security-checks-in-firefox-part-2/)   
+* [Help Test Firefox’s built-in HTML Sanitizer to protect against UXSS bugs](https://blog.mozilla.org/attack-and-defense/2019/12/02/help-test-firefoxs-built-in-html-sanitizer-to-protect-against-uxss-bugs/)  
 
 #### Books  
 * [The Tangled Web – A Guide to Securing Modern Web Applications](https://www.amazon.in/Tangled-Web-Securing-Modern-Applications/dp/1593273886)
