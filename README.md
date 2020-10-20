@@ -23,15 +23,17 @@
 * [A Methodical Approach to Browser Exploitation](https://blog.ret2.io/2018/06/05/pwn2own-2018-exploit-development/)  
 * [Fuzzing JavaScript Engines with Fuzzilli](https://blog.doyensec.com/2020/09/09/fuzzilli-jerryscript.html)  
 * [Browser-Pwn - An updated collection of resources targeting browser-exploitation](https://github.com/m1ghtym0/browser-pwn)  
+* [Hardening Firefox against Injection Attacks](https://www.christophkerschbaumer.com/files/hardening_firefox_against_injection_attacks.pdf)  
+* [Hardening Firefox against Injection Attacks – The Technical Details](https://blog.mozilla.org/attack-and-defense/2020/07/07/hardening-firefox-against-injection-attacks-the-technical-details/)  
 
-#### Books
+#### Books  
 * [The Tangled Web – A Guide to Securing Modern Web Applications](https://www.amazon.in/Tangled-Web-Securing-Modern-Applications/dp/1593273886)
 * [The Browser Hacker's Handbook](https://www.amazon.in/Browser-Hackers-Handbook-Wade-Alcorn-ebook/dp/B00JV5JDM6)  
 * [Idiosyncrasies of the HTML parser](https://leanpub.com/html-parser-book/)  
 * [X41’s Browser Security White Paper](https://browser-security.x41-dsec.de/X41-Browser-Security-White-Paper.pdf) [(alternate link)](https://github.com/x41sec/browser-security-whitepaper-2017)  
 * [Cure53’s Browser Security White Paper](https://cure53.de/browser-security-whitepaper.pdf) [(alternate link)](https://github.com/cure53/browser-sec-whitepaper/)  
 
-#### Videos
+#### Videos  
 * [35C3 - The Layman's Guide to Zero-Day Engineering](https://www.youtube.com/watch?v=WbuGMs2OcbE)  
 * [35C3 - From Zero to Zero Day](https://www.youtube.com/watch?v=xp1YDOtWohw)  
 * [Browser Exploitation for Fun and Profit](https://www.youtube.com/watch?v=j3SbkXxdvnE)  
