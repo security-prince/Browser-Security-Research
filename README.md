@@ -9,7 +9,6 @@
 * [Inside look at modern web browser (part 4)](https://developers.google.com/web/updates/2018/09/inside-browser-part4)  
 * [Document Object Model (DOM)](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)  
 * [Securitum Research](https://research.securitum.com/about-us/)  
-* [Idiosyncrasies of the HTML parser](https://leanpub.com/html-parser-book/)  
 * [The Great DOM Fuzz-off of 2017](https://googleprojectzero.blogspot.com/2017/09/the-great-dom-fuzz-off-of-2017.html)  
 * [JavaScript Engine Fuzzing and Exploitation Reading List](https://zon8.re/posts/javascript-engine-fuzzing-and-exploitation-reading-list/)  
 * [V8 / Chrome Architecture Reading List - For Vulnerability Researchers](https://zon8.re/posts/v8-chrome-architecture-reading-list-for-vulnerability-researchers/)    
@@ -26,6 +25,7 @@
 #### Books
 * [The Tangled Web – A Guide to Securing Modern Web Applications](https://www.amazon.in/Tangled-Web-Securing-Modern-Applications/dp/1593273886)
 * [The Browser Hacker's Handbook](https://www.amazon.in/Browser-Hackers-Handbook-Wade-Alcorn-ebook/dp/B00JV5JDM6)  
+* [Idiosyncrasies of the HTML parser](https://leanpub.com/html-parser-book/)  
 * [X41’s Browser Security White Paper](https://browser-security.x41-dsec.de/X41-Browser-Security-White-Paper.pdf) [(alternate link)](https://github.com/x41sec/browser-security-whitepaper-2017)  
 * [Cure53’s Browser Security White Paper](https://cure53.de/browser-security-whitepaper.pdf) [(alternate link)](https://github.com/cure53/browser-sec-whitepaper/)  
 
