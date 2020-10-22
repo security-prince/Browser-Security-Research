@@ -43,6 +43,12 @@
 * [Breaking Microsoft Edge extensions security policies](https://www.youtube.com/watch?v=wZSKCwbq4Og)  
 * [LiveOverflow Browser Exploitation](https://www.youtube.com/playlist?list=PLhixgUqwRTjwufDsT1ntgOY9yjZgg5H_t)   
 
+#### Tools  
+* [LiveDOM++](https://livedom.lab.xss.academy/) - Tool to compare various HTML parsers in browsers  
+* [Domato](https://github.com/googleprojectzero/domato) - A DOM fuzzer  
+* [BeEF](https://github.com/beefproject/beef) - The Browser Exploitation Framework  
+
+
 #### Folks to follow  
 * [Parisa Tabriz](https://twitter.com/laparisa)  
 * [Zon8 Research](https://twitter.com/Zon8Research)  
