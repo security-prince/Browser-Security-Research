@@ -8,6 +8,9 @@
 * [Inside look at modern web browser (part 3)](https://developers.google.com/web/updates/2018/09/inside-browser-part3)  
 * [Inside look at modern web browser (part 4)](https://developers.google.com/web/updates/2018/09/inside-browser-part4)  
 * [Document Object Model (DOM)](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)  
+* [Understanding Web Security Checks in Firefox (Part 1)](https://blog.mozilla.org/attack-and-defense/2020/06/10/understanding-web-security-checks-in-firefox-part-1/)  
+* [Understanding Web Security Checks in Firefox (Part 2)](https://blog.mozilla.org/attack-and-defense/2020/08/05/understanding-web-security-checks-in-firefox-part-2/)   
+* [Towards native security defenses for the web ecosystem](https://security.googleblog.com/2020/07/towards-native-security-defenses-for.html)  
 * [javascript.info](https://javascript.info/)  
 * [javascript.info (video playlist)](https://www.youtube.com/playlist?list=PLMYcQvDS3E8EUGASNKYAZ_p3bR6WBbATq)  
 * [Securitum Research](https://research.securitum.com/about-us/)  
@@ -25,8 +28,6 @@
 * [Browser-Pwn - An updated collection of resources targeting browser-exploitation](https://github.com/m1ghtym0/browser-pwn)  
 * [Hardening Firefox against Injection Attacks](https://www.christophkerschbaumer.com/files/hardening_firefox_against_injection_attacks.pdf)  
 * [Hardening Firefox against Injection Attacks – The Technical Details](https://blog.mozilla.org/attack-and-defense/2020/07/07/hardening-firefox-against-injection-attacks-the-technical-details/)  
-* [Understanding Web Security Checks in Firefox (Part 1)](https://blog.mozilla.org/attack-and-defense/2020/06/10/understanding-web-security-checks-in-firefox-part-1/)  
-* [Understanding Web Security Checks in Firefox (Part 2)](https://blog.mozilla.org/attack-and-defense/2020/08/05/understanding-web-security-checks-in-firefox-part-2/)   
 * [Help Test Firefox’s built-in HTML Sanitizer to protect against UXSS bugs](https://blog.mozilla.org/attack-and-defense/2019/12/02/help-test-firefoxs-built-in-html-sanitizer-to-protect-against-uxss-bugs/)  
 
 #### Books  
@@ -37,6 +38,7 @@
 * [Cure53’s Browser Security White Paper](https://cure53.de/browser-security-whitepaper.pdf) [(alternate link)](https://github.com/cure53/browser-sec-whitepaper/)  
 
 #### Videos  
+* [Securing Web Apps with Modern Platform Features (Google I/O ’19)](https://www.youtube.com/watch?v=DDtM9caQ97I)  
 * [35C3 - The Layman's Guide to Zero-Day Engineering](https://www.youtube.com/watch?v=WbuGMs2OcbE)  
 * [35C3 - From Zero to Zero Day](https://www.youtube.com/watch?v=xp1YDOtWohw)  
 * [Browser Exploitation for Fun and Profit](https://www.youtube.com/watch?v=j3SbkXxdvnE)  
