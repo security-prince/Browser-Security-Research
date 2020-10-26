@@ -49,6 +49,7 @@
 * [LiveDOM++](https://livedom.lab.xss.academy/) - Tool to compare various HTML parsers in browsers  
 * [Domato](https://github.com/googleprojectzero/domato) - A DOM fuzzer  
 * [BeEF](https://github.com/beefproject/beef) - The Browser Exploitation Framework  
+* [DOMPurify](https://github.com/cure53/DOMPurify)  
 
 
 #### Folks to follow  
