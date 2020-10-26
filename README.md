@@ -79,3 +79,5 @@
 * [Norbert Szetei](https://twitter.com/73696e65)  
 * [Michał Bentkowski](https://twitter.com/securitymb)  
 * [Michele Spagnuolo](https://twitter.com/mikispag)  
+* [Ben Stock](https://twitter.com/kcotsneb)  
+* [Marius Steffens](https://twitter.com/steffens_marius)  
