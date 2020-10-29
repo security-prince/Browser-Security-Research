@@ -13,7 +13,7 @@
 * [Towards native security defenses for the web ecosystem](https://security.googleblog.com/2020/07/towards-native-security-defenses-for.html)  
 * [javascript.info](https://javascript.info/)  
 * [javascript.info (video playlist)](https://www.youtube.com/playlist?list=PLMYcQvDS3E8EUGASNKYAZ_p3bR6WBbATq)  
-* [Securitum Research](https://research.securitum.com/about-us/)  
+* [Securitum Research](https://research.securitum.com/)  
 * [The Great DOM Fuzz-off of 2017](https://googleprojectzero.blogspot.com/2017/09/the-great-dom-fuzz-off-of-2017.html)  
 * [JavaScript Engine Fuzzing and Exploitation Reading List](https://zon8.re/posts/javascript-engine-fuzzing-and-exploitation-reading-list/)  
 * [V8 / Chrome Architecture Reading List - For Vulnerability Researchers](https://zon8.re/posts/v8-chrome-architecture-reading-list-for-vulnerability-researchers/)    
