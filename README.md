@@ -1,7 +1,7 @@
 # Browser Security Research
 ### Resources for Browser Security Research
 
-#### Resources  
+#### Resources/Blogs  
 * [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)  
 * [Inside look at modern web browser (part 1)](https://developers.google.com/web/updates/2018/09/inside-browser-part1)  
 * [Inside look at modern web browser (part 2)](https://developers.google.com/web/updates/2018/09/inside-browser-part2)  
@@ -14,6 +14,7 @@
 * [javascript.info](https://javascript.info/)  
 * [javascript.info (video playlist)](https://www.youtube.com/playlist?list=PLMYcQvDS3E8EUGASNKYAZ_p3bR6WBbATq)  
 * [Securitum Research](https://research.securitum.com/)  
+* [Jorge Lajara's posts on XSS](https://jlajara.gitlab.io/web.html)  
 * [The Great DOM Fuzz-off of 2017](https://googleprojectzero.blogspot.com/2017/09/the-great-dom-fuzz-off-of-2017.html)  
 * [JavaScript Engine Fuzzing and Exploitation Reading List](https://zon8.re/posts/javascript-engine-fuzzing-and-exploitation-reading-list/)  
 * [V8 / Chrome Architecture Reading List - For Vulnerability Researchers](https://zon8.re/posts/v8-chrome-architecture-reading-list-for-vulnerability-researchers/)    
