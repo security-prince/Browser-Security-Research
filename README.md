@@ -44,6 +44,7 @@
 * [35C3 - From Zero to Zero Day](https://www.youtube.com/watch?v=xp1YDOtWohw)  
 * [Browser Exploitation for Fun and Profit](https://www.youtube.com/watch?v=j3SbkXxdvnE)  
 * [Breaking Microsoft Edge extensions security policies](https://www.youtube.com/watch?v=wZSKCwbq4Og)  
+* [Reversing Client Side JavaScript Using the Chrome Dev Tools Protocol](https://www.youtube.com/watch?v=esnyZzNRXkA)  
 * [LiveOverflow Browser Exploitation](https://www.youtube.com/playlist?list=PLhixgUqwRTjwufDsT1ntgOY9yjZgg5H_t)   
 
 #### Tools  
