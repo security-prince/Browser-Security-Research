@@ -86,3 +86,6 @@
 * [Ben Stock](https://twitter.com/kcotsneb)  
 * [Marius Steffens](https://twitter.com/steffens_marius)  
 * [itszn](https://twitter.com/itszn13)  
+
+Twitter List: [client-side-yodas](https://twitter.com/i/lists/1187452854618984449) - List of people specialized in client-side attacks
+
