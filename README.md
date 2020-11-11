@@ -13,6 +13,7 @@
 * [Towards native security defenses for the web ecosystem](https://security.googleblog.com/2020/07/towards-native-security-defenses-for.html)  
 * [javascript.info](https://javascript.info/)  
 * [javascript.info (video playlist)](https://www.youtube.com/playlist?list=PLMYcQvDS3E8EUGASNKYAZ_p3bR6WBbATq)  
+* [The Same-Origin Policy Gone Wild](https://parsiya.net/blog/2020-11-01-the-same-origin-policy-gone-wild/)  
 * [Securitum Research](https://research.securitum.com/)  
 * [Jorge Lajara's posts on XSS](https://jlajara.gitlab.io/web.html)  
 * [The Great DOM Fuzz-off of 2017](https://googleprojectzero.blogspot.com/2017/09/the-great-dom-fuzz-off-of-2017.html)  
@@ -31,6 +32,7 @@
 * [Hardening Firefox against Injection Attacks – The Technical Details](https://blog.mozilla.org/attack-and-defense/2020/07/07/hardening-firefox-against-injection-attacks-the-technical-details/)  
 * [Help Test Firefox’s built-in HTML Sanitizer to protect against UXSS bugs](https://blog.mozilla.org/attack-and-defense/2019/12/02/help-test-firefoxs-built-in-html-sanitizer-to-protect-against-uxss-bugs/)  
 * [Chromium Disclosed Security Bugs](https://chromium-disclosed-bugs.appspot.com/)  
+* [Edge Vulnerability Research](https://microsoftedge.github.io/edgevr/)  
 
 #### Books  
 * [The Tangled Web – A Guide to Securing Modern Web Applications](https://www.amazon.in/Tangled-Web-Securing-Modern-Applications/dp/1593273886)
