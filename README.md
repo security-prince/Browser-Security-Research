@@ -16,6 +16,7 @@
 * [The Same-Origin Policy Gone Wild](https://parsiya.net/blog/2020-11-01-the-same-origin-policy-gone-wild/)  
 * [From SVG and back, yet another mutation XSS via namespace confusion for DOMPurify < 2.2.2 bypass](https://vovohelo.medium.com/from-svg-and-back-yet-another-mutation-xss-via-namespace-confusion-for-dompurify-2-2-2-bypass-5d9ae8b1878f)  
 * [Securitum Research](https://research.securitum.com/)  
+* [The Hacker Blog](https://thehackerblog.com/)  
 * [Jorge Lajara's posts on XSS](https://jlajara.gitlab.io/web.html)  
 * [The Great DOM Fuzz-off of 2017](https://googleprojectzero.blogspot.com/2017/09/the-great-dom-fuzz-off-of-2017.html)  
 * [JavaScript Engine Fuzzing and Exploitation Reading List](https://zon8.re/posts/javascript-engine-fuzzing-and-exploitation-reading-list/)  
