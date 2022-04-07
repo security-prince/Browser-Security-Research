@@ -22,6 +22,6 @@
    * ###### Chrome Basics
       * [Anatomy of the browser 101](https://www.youtube.com/watch?v=PzzNuCk*e0Y)
       * [Anatomy of the browser 201](https://www.youtube.com/watch?v=u7berRU9Qys)
-      * [Mojo * Chrome’s inter*process communication system](https://www.youtube.com/watch?v=o*nR7enXzII)
+      * [Mojo - Chrome’s inter-process communication system](https://www.youtube.com/watch?v=o*nR7enXzII)
       * [Chrome University Playlist](https://www.youtube.com/playlist?list=PLNYkxOF6rcICgS7eFJrGDhMBwWtdTgzpx)
       * [Chrome Browser Architecture](https://seal9055.com/blog/browser/browser_architecture)
