@@ -1,11 +1,11 @@
 # Browser Security Research Roadmap
 ### Table of Contents
-   * [Computer Science & Assembly Basics](https://github.com/security-prince/Browser-Security-Research/blob/main/Roadmap.md#computer-science-basics)
+   * [Computer Science Basics](https://github.com/security-prince/Browser-Security-Research/blob/main/Roadmap.md#computer-science-basics)
    * [Browser Basics](https://github.com/security-prince/Browser-Security-Research/blob/main/Roadmap.md#browser-basics)
    * [Chrome](https://github.com/security-prince/Browser-Security-Research/blob/main/Roadmap.md#chrome)
       * [Chrome Basics](https://github.com/security-prince/Browser-Security-Research/blob/main/Roadmap.md#chrome-basics)
 
-#### Computer Science & Assembly Basics
+#### Computer Science Basics
    * [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/2022/)
    * [Software Security](https://www.coursera.org/learn/software*security)
    * [ASM (x86-64)](https://omu.rce.so/lessons/asm-x86-64/)
