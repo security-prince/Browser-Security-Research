@@ -7,7 +7,7 @@
 
 #### Computer Science Basics
    * [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/2022/)
-   * [Software Security](https://www.coursera.org/learn/software*security)
+   * [Software Security](https://www.coursera.org/learn/software-security)
    * [ASM (x86-64)](https://omu.rce.so/lessons/asm-x86-64/)
 
 #### Browser Basics
