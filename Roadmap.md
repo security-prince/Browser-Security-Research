@@ -18,6 +18,7 @@
    * [Inside look at modern web browser (part 4)](https://developers.google.com/web/updates/2018/09/inside-browser-part4)
    * [How the browser renders a web page](https://dev.to/jstarmx/how-the-browser-renders-a-web-page-1ahc)
    * [How does JavaScript work?](https://dev.to/ganeshjaiwal/how-does-javascript-work-45oc)
+   * [What you need to know about inbuilt browser HTML sanitization](https://blog.logrocket.com/what-you-need-know-inbuilt-browser-html-sanitization/)
    
 #### Chrome
    * ###### Chrome Basics
