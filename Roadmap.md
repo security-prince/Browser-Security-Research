@@ -4,6 +4,7 @@
    * [Browser Basics](https://github.com/security-prince/Browser-Security-Research/blob/main/Roadmap.md#browser-basics)
    * [Chrome](https://github.com/security-prince/Browser-Security-Research/blob/main/Roadmap.md#chrome)
       * [Chrome Basics](https://github.com/security-prince/Browser-Security-Research/blob/main/Roadmap.md#chrome-basics)
+      * [Inter process communication(IPC)](https://github.com/security-prince/Browser-Security-Research/blob/main/Roadmap.md#inter-process-communicationipc)
 
 #### Computer Science Basics
    * [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/2022/)
