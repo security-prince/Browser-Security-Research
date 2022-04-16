@@ -23,10 +23,12 @@
    
 #### Chrome
    * ###### Chrome Basics
-      * [Anatomy of the browser 101](https://www.youtube.com/watch?v=PzzNuCk-e0Y)
-      * [Anatomy of the browser 201](https://www.youtube.com/watch?v=u7berRU9Qys)
-      * [Security 101 (Chrome University)](https://www.youtube.com/watch?v=jqQdgQKYq7E&list=PLNYkxOF6rcICgS7eFJrGDhMBwWtdTgzpx&index=13&t=0s)
-      * Security 201 (Chrome University)(https://www.youtube.com/watch?v=lv0lvJigrRw&list=PLNYkxOF6rcICgS7eFJrGDhMBwWtdTgzpx&index=14&ab_channel=GoogleChromeDevelopers)
+      * [Anatomy of the browser 101(Chrome University)](https://www.youtube.com/watch?v=PzzNuCk-e0Y)
+      * [Anatomy of the browser 201(Chrome University)](https://www.youtube.com/watch?v=u7berRU9Qys)
+      * [Security 101 (Chrome University)](https://www.youtube.com/watch?v=jqQdgQKYq7E)
+      * [Security 201 (Chrome University)](https://www.youtube.com/watch?v=lv0lvJigrRw)
+      * [Life of a Process (Chrome University)](https://www.youtube.com/watch?v=5im7SGmJxnA)
+      * [Life of a Script (Chrome Univesity)](https://www.youtube.com/watch?v=3bVcTFOKRyo)
       * [Chrome University Playlist](https://www.youtube.com/playlist?list=PLNYkxOF6rcICgS7eFJrGDhMBwWtdTgzpx)
       * [Chrome Browser Architecture](https://seal9055.com/blog/browser/browser_architecture)
 
