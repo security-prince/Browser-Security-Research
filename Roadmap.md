@@ -35,3 +35,6 @@
    * ###### Inter process communication(IPC)
       * [Mojo - Chrome’s inter-process communication system](https://www.youtube.com/watch?v=o-nR7enXzII)
       * [Intro to Mojo & Services](https://chromium.googlesource.com/chromium/src.git/+/master/docs/mojo_and_services.md)
+
+   * ###### V8 JavaScript engine
+      * [Intro to Chrome’s V8 from an exploit development angle](https://sensepost.com/blog/2020/intro-to-chromes-v8-from-an-exploit-development-angle/)
