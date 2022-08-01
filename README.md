@@ -62,6 +62,20 @@
 * [V8 Bug Hunting Part 1: Setting up the debug environment](https://medium.com/@stankoja/v8-bug-hunting-part-1-setting-up-the-debug-environment-7ef34dc6f2de)
 * [SpiderMonkey Research - 0x01 - Setup & Debug](https://glitchnsec.github.io/research/browsers/2019/07/07/spidermoneky-research-0x01-setup-debug.html)
 
+#### Research Work & Papers
+* [SOK: On the Analysis of Web Browser Security](https://arxiv.org/pdf/2112.15561.pdf)
+* [Towards native security defenses for the web ecosystem](https://security.googleblog.com/2020/07/towards-native-security-defenses-for.html)
+* [The Security Architecture of the Chromium Browser](https://seclab.stanford.edu/websec/chromium/)
+* [Content-Type Research](https://github.com/BlackFan/content-type-research)
+* [Deep Dive into Site Isolation (Part 1)](https://microsoftedge.github.io/edgevr/posts/deep-dive-into-site-isolation-part-1/)
+* [js-vuln-db -A collection of JavaScript engine CVEs with PoCs](https://github.com/tunz/js-vuln-db)
+* [uxss-db - Browser logic vulnerabilities](https://github.com/Metnew/uxss-db)
+* [V8 Vulnerabilities](https://github.com/Zon8Research/v8-vulnerabilities)
+* [Awesome Advanced Windows Browser Exploitation References](https://github.com/yeyintminthuhtut/Awesome-Advanced-Windows-Exploitation-References#-browser)
+* [Awesome browser security](https://github.com/cezary-sec/awesome-browser-security)
+
+
+
 #### Books  
 * [The Tangled Web – A Guide to Securing Modern Web Applications](https://www.amazon.in/Tangled-Web-Securing-Modern-Applications/dp/1593273886)
 * [The Browser Hacker's Handbook](https://www.amazon.in/Browser-Hackers-Handbook-Wade-Alcorn-ebook/dp/B00JV5JDM6)  
