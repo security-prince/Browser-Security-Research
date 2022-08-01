@@ -141,7 +141,7 @@
 * [Adam Barth](https://twitter.com/adambarth)
 * [Jeremy Fetiveau](https://twitter.com/__x86)
 * [Patrick Ventuzelo](https://twitter.com/Pat_Ventuzelo)
-* **[doar-e](https://twitter.com/doar_e)
+* [doar-e](https://twitter.com/doar_e)
 * [Axel Souchet](https://twitter.com/0vercl0k)
 * [Jonathan Salwan](https://twitter.com/jonathansalwan)
 * [Jeremy Fetiveau](https://twitter.com/__x86)
