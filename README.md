@@ -73,6 +73,7 @@
 * [V8 Vulnerabilities](https://github.com/Zon8Research/v8-vulnerabilities)
 * [Awesome Advanced Windows Browser Exploitation References](https://github.com/yeyintminthuhtut/Awesome-Advanced-Windows-Exploitation-References#-browser)
 * [Awesome browser security](https://github.com/cezary-sec/awesome-browser-security)
+* [Browser Exploitation](https://pwn.browser.rip/)
 
 
 
