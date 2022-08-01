@@ -35,6 +35,32 @@
 * [Help Test Firefox’s built-in HTML Sanitizer to protect against UXSS bugs](https://blog.mozilla.org/attack-and-defense/2019/12/02/help-test-firefoxs-built-in-html-sanitizer-to-protect-against-uxss-bugs/)  
 * [Chromium Disclosed Security Bugs](https://chromium-disclosed-bugs.appspot.com/)  
 * [Edge Vulnerability Research](https://microsoftedge.github.io/edgevr/)  
+* [SBX Intro](https://robertchen.cc/blog/2021/07/07/sbx-intro)
+* [EXPLOITING URL PARSING CONFUSION](https://claroty.com/2022/01/10/blog-research-exploiting-url-parsing-confusion/)
+* [EXPLOITING URL PARSERS: THE GOOD, BAD, AND INCONSISTENT](https://claroty.com/wp-content/uploads/2022/01/Exploiting-URL-Parsing-Confusion.pdf)
+* [Circumventing Browser Security Mechanisms For SSRF](https://github.com/httpvoid/writeups/blob/main/Circumventing-Browser-Security-Mechanisms-For-SSRF.md)
+* [Demystifying Browsers](https://textslashplain.com/2020/02/09/demystifying-browsers/)
+* [Awesome Vulnerability Research](https://github.com/securitychampions/Awesome-Vulnerability-Research)
+* [Notes on Browser Exploitation (v8)](https://daniao.ws/notes)
+* [Attacking JavaScript Engines in 2022](https://saelo.github.io/presentations/offensivecon_22_attacking_javascript_engines.pdf)
+* [Attacking JavaScript Engines - A case study of JavaScriptCore and CVE-2016-4622](http://www.phrack.org/issues/70/3.html#article)
+* [Exploiting Logic Bugs in JavaScript JIT Engines](http://www.phrack.org/issues/70/9.html#article)
+* [V8 / Chrome Architecture Reading List - For Vulnerability Researchers](https://zon8.re/posts/v8-chrome-architecture-reading-list-for-vulnerability-researchers/)**
+* [JavaScript Engine Fuzzing and Exploitation Reading List](https://zon8.re/posts/javascript-engine-fuzzing-and-exploitation-reading-list/)**
+* [Top 4 Books to learn Web Browser Security in 2022](https://www.youtube.com/watch?v=NxKlO4BYMhQ)
+* [Introduction to Browser Fuzzing](https://academy.fuzzinglabs.com/introduction-browser-fuzzing?coupon=YOUTUBE)
+* [Practical Web Browser Fuzzing](https://fuzzinglabs.com/practical-web-browser-fuzzing/)
+* [WTF is Browser Hacking](https://un-excogitate.org/presentations/CactusCon2016-wtfbrowser.pdf)
+* [Introduction to Browser Fuzzing](https://www.slideshare.net/null0x00/introduction-to-browser-fuzzing)
+* [Browser fuzzing at Mozilla](https://hacks.mozilla.org/2021/02/browser-fuzzing-at-mozilla/)
+* [Fuzzing JavaScript Engines with Aspect-preserving Mutation](https://ieeexplore.ieee.org/document/9152648)
+* [https://github.com/seal9055/resources#browser-exploitation](https://github.com/seal9055/resources#browser-exploitation)
+* [awesome-browser-exploit](https://github.com/Escapingbug/awesome-browser-exploit)
+* [Diary of a reverse engineer](https://doar-e.github.io/)
+* [Smashing The Browser: From Vulnerability Discovery To Exploit](https://github.com/demi6od/Smashing_The_Browser)
+* [https://bufferoverflows.net/](https://bufferoverflows.net/)
+* [V8 Bug Hunting Part 1: Setting up the debug environment](https://medium.com/@stankoja/v8-bug-hunting-part-1-setting-up-the-debug-environment-7ef34dc6f2de)
+* [SpiderMonkey Research - 0x01 - Setup & Debug](https://glitchnsec.github.io/research/browsers/2019/07/07/spidermoneky-research-0x01-setup-debug.html)
 
 #### Books  
 * [The Tangled Web – A Guide to Securing Modern Web Applications](https://www.amazon.in/Tangled-Web-Securing-Modern-Applications/dp/1593273886)
@@ -57,6 +83,11 @@
 * [Domato](https://github.com/googleprojectzero/domato) - A DOM fuzzer  
 * [BeEF](https://github.com/beefproject/beef) - The Browser Exploitation Framework  
 * [DOMPurify](https://github.com/cure53/DOMPurify)  
+* [HTML Sanitizer API](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Sanitizer_API)
+* [FreeDom](https://github.com/sslab-gatech/freedom) * A DOM fuzzer
+* [Making of: The Sanitizer API](https://docs.google.com/presentation/d/1eLmIZkY7auD8xT-Q6AzBKM_ASFHH8Z5fMyfeoSbSH-k/view#slide=id.g82761e80df_0_1948)
+* [Turbolizer](https://github.com/thlorenz/turbolizer)
+* [ClusterFuzz](https://github.com/google/clusterfuzz) * Scalable fuzzing infrastructure.
 
 
 #### Folks to follow  
@@ -90,6 +121,18 @@
 * [Ben Stock](https://twitter.com/kcotsneb)  
 * [Marius Steffens](https://twitter.com/steffens_marius)  
 * [itszn](https://twitter.com/itszn13)  
+* [Connor McGarr](https://twitter.com/33y0re)
+* [Simon Pieters](https://twitter.com/zcorpan)
+* [Adam Barth](https://twitter.com/adambarth)
+* [Jeremy Fetiveau](https://twitter.com/__x86)
+* [Patrick Ventuzelo](https://twitter.com/Pat_Ventuzelo)
+* **[doar-e](https://twitter.com/doar_e)
+* [Axel Souchet](https://twitter.com/0vercl0k)
+* [Jonathan Salwan](https://twitter.com/jonathansalwan)
+* [Jeremy Fetiveau](https://twitter.com/__x86)
+* [yrp](https://twitter.com/yrp604)
+* [Michael Zhang](https://twitter.com/demi6od)
+* [Daniel Lim](https://twitter.com/daniellimws)
 
 Twitter List: [client-side-yodas](https://twitter.com/i/lists/1187452854618984449) - List of people specialized in client-side attacks
 
