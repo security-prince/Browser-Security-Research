@@ -45,8 +45,8 @@
 * [Attacking JavaScript Engines in 2022](https://saelo.github.io/presentations/offensivecon_22_attacking_javascript_engines.pdf)
 * [Attacking JavaScript Engines - A case study of JavaScriptCore and CVE-2016-4622](http://www.phrack.org/issues/70/3.html#article)
 * [Exploiting Logic Bugs in JavaScript JIT Engines](http://www.phrack.org/issues/70/9.html#article)
-* [V8 / Chrome Architecture Reading List - For Vulnerability Researchers](https://zon8.re/posts/v8-chrome-architecture-reading-list-for-vulnerability-researchers/)**
-* [JavaScript Engine Fuzzing and Exploitation Reading List](https://zon8.re/posts/javascript-engine-fuzzing-and-exploitation-reading-list/)**
+* [V8 / Chrome Architecture Reading List - For Vulnerability Researchers](https://zon8.re/posts/v8-chrome-architecture-reading-list-for-vulnerability-researchers/)
+* [JavaScript Engine Fuzzing and Exploitation Reading List](https://zon8.re/posts/javascript-engine-fuzzing-and-exploitation-reading-list/)
 * [Top 4 Books to learn Web Browser Security in 2022](https://www.youtube.com/watch?v=NxKlO4BYMhQ)
 * [Introduction to Browser Fuzzing](https://academy.fuzzinglabs.com/introduction-browser-fuzzing?coupon=YOUTUBE)
 * [Practical Web Browser Fuzzing](https://fuzzinglabs.com/practical-web-browser-fuzzing/)
@@ -99,10 +99,10 @@
 * [BeEF](https://github.com/beefproject/beef) - The Browser Exploitation Framework  
 * [DOMPurify](https://github.com/cure53/DOMPurify)  
 * [HTML Sanitizer API](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Sanitizer_API)
-* [FreeDom](https://github.com/sslab-gatech/freedom) * A DOM fuzzer
+* [FreeDom - A DOM fuzzer](https://github.com/sslab-gatech/freedom)
 * [Making of: The Sanitizer API](https://docs.google.com/presentation/d/1eLmIZkY7auD8xT-Q6AzBKM_ASFHH8Z5fMyfeoSbSH-k/view#slide=id.g82761e80df_0_1948)
 * [Turbolizer](https://github.com/thlorenz/turbolizer)
-* [ClusterFuzz](https://github.com/google/clusterfuzz) * Scalable fuzzing infrastructure.
+* [ClusterFuzz - Scalable fuzzing infrastructure](https://github.com/google/clusterfuzz)
 
 
 #### Folks to follow  
